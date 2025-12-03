@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is your_major.
+This is my home page! My name is Nghi Luu and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
 
 ## Computer Science Projects
 
