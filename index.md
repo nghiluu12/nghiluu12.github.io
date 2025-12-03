@@ -1,9 +1,12 @@
+# Hello World
 
-# Nghi Luu's Portfolio
+This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is your_major.
 
-I am an Electrical Engineering major at CSUF and I plan on graduating 2029
+## Computer Science Projects
 
-## Favorite CPSC 120L Labs
+My GitHub page is [http://github.com/nghiluu12]http://github.com/nghiluu12.
+## CPSC 120
+
 
 * Lab 2, part 1
 
